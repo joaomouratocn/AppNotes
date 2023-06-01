@@ -2,9 +2,9 @@
 
 Aplicativo de notas, criado para exercitar um CRUD com uma webApi
 
-| Lista de comptas                   | Inserir valor do produto                         | Opçẽs para inserir produto                     |
-|------------------------------------|--------------------------------------------------|------------------------------------------------|
-| ![Screenshot](ScreenShots/Lista de notas.png) | ![Screenshot](ScreenShots/Nota sem imagem.png) | ![Screenshot](ScreenShots/Carregar imagem.png) |
+| Lista de notas                                | Notas sem imagem                               | Carregar imagem                                |
+|-----------------------------------------------|------------------------------------------------|------------------------------------------------|
+| ![Screenshot](ScreenShots/lista_de_notas.png) | ![Screenshot](ScreenShots/nota_sem_imagem.png) | ![Screenshot](ScreenShots/carregar_imagem.png) |
 
 Ultilizados:
 * KOTLIN (linguagem de progração)
