@@ -26,4 +26,10 @@
 
         <item name="android:statusBarColor">@color/black</item>
     </style>
+
+    <style name="styleFab" parent="Widget.MaterialComponents.FloatingActionButton">
+        <item name="android:textColor">@color/white</item>
+        <item name="iconTint">@color/white</item>
+        <item name="backgroundTint">@color/primary</item>
+    </style>
 </resources>
